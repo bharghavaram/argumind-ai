@@ -1,3 +1,5 @@
+> **📅 Project Period:** May 2024 – Aug 2024 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # 🧠 Argumind AI – Multi-LLM Argument Analysis & Verdict System
 
 > **Agentic argumentation platform using GPT-4, Claude, and Mistral for multi-model logical analysis, fallacy detection, and synthesised verdicts.**
