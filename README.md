@@ -15,7 +15,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/argumind-ai/main/docs/images/demo.svg" alt="argumind-ai demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 Human argumentation is riddled with logical fallacies, emotional bias, and rhetorical manipulation that go undetected in debates, legal arguments, and business negotiations. Single-LLM analysis has inherent biases depending on training data. ArguMind uses three LLMs simultaneously (GPT-4, Claude, Mistral) as independent "judges" with different analytical perspectives — detecting fallacies, scoring argument strength, generating counterarguments, and producing a consensus verdict — achieving 40% better accuracy than any single model.
 
